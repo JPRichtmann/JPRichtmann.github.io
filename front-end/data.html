@@ -4,7 +4,7 @@
     <title>Globe</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/Website/front-end/css/style-data.css" />
+    <link rel="stylesheet" href="/front-end/css/style-data.css" />
     <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@500;700&family=Lobster&display=swap" rel="stylesheet"/>
   </head>
 
@@ -29,7 +29,7 @@
       integrity="sha512-IQLehpLoVS4fNzl7IfH8Iowfm5+RiMGtHykgZJl9AWMgqx0AmJ6cRWcB+GaGVtIsnC4voMfm8f2vwtY+6oPjpQ=="
       crossorigin="anonymous"
     ></script>
-    <script src="/Website/front-end/js/transition.js"></script>
+    <script src="/front-end/js/transition.js"></script>
 
 <div id="chartContainer">
   <p id="charttitle">Latest Country Emissions 2010</p>
@@ -46,7 +46,7 @@
       
 </style>
 <script>
-d3.csv("/Website/back-end/country_CAIT.csv", function(CountryCAIT) {
+d3.csv("/back-end/country_CAIT.csv", function(CountryCAIT) {
           
           //console.log(CountryCAIT);
           //console.log(CountryCAIT[1]);
@@ -139,7 +139,7 @@ d3.csv("/Website/back-end/country_CAIT.csv", function(CountryCAIT) {
       <button> Home</button>
   </div>
   
-  <a href="/Website/front-end/index.html">
+  <a href="/front-end/index.html">
       <div class="scroll-down"></div>
   </a>
 </footer>
