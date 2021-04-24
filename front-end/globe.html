@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> Globe </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+ 
+    </head>
+    <body>
+        <head>
+            <style> 
+            body { margin: 0; } 
+            
+            .hide {
+            display: none;
+          }
+          
+          .myDIV:hover + .hide {
+            display: block;
+            color: red;
+          
+          }
+          .popup {
+              position: relative;
+              display: inline-block;
+              cursor: pointer;
+              -webkit-user-select: none;
+              -moz-user-select: none;
+              -ms-user-select: none;
+              user-select: none;
+          }
+          
+          .popup .popuptext {
+              visibility: hidden;
+              width: 160px;
+              background-color: #555;
+              color: rgb(66, 209, 0);
+              text-align: center;
+              border-radius: 6px;
+              padding: 8px 0;
+              position: absolute;
+              z-index: 1;
+              bottom: -250%;
+              left: 50%;
+              margin-left: -80px;
+          }
+          
+          .popup .show {
+              visibility: visible;
+              -webkit-animation: fadeIn 1s;
+              animation: fadeIn 1s;
+          }
+          
+            </style>
+          
+            <!--Importing D3 for colour scales -->
+          
+            <script src="https://d3js.org/d3.v6.min.js"></script>
+          
+            <!--<script src="js/aframe-orbit-controls-component.min.js"></script>-->
+          
+            <!-- Importing globe.gl for globe visualisation -->
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+            <script src="https://unpkg.com/globe.gl@2.20.0/dist/globe.gl.min.js"></script>
+            
+            <!--<script src="polygondata.js"></script>-->
+            <script src="/Website/back-end/app.js"></script>
+            </script>
+            
+            <div id="globeEms"></div>
+          </head>
+    
+    </body>
+</html>

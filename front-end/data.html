@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Globe</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/Website/front-end/css/style-data.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@500;700&family=Lobster&display=swap" rel="stylesheet"/>
+  </head>
+
+  <body>
+    <div class="intro">
+      <div class="intro-text">
+        <h1 class="hide">
+          <span class="text">Welcome</span>
+        </h1>
+        <h1 class="hide">
+          <span class="text">Let's start with an overview </span>
+        </h1>
+        <h1 class="hide">
+          <span class="text">of the largest carbon emitters.</span>
+        </h1>
+      </div>
+    </div>
+    <div class="slider"></div>
+    
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"
+      integrity="sha512-IQLehpLoVS4fNzl7IfH8Iowfm5+RiMGtHykgZJl9AWMgqx0AmJ6cRWcB+GaGVtIsnC4voMfm8f2vwtY+6oPjpQ=="
+      crossorigin="anonymous"
+    ></script>
+    <script src="/Website/front-end/js/transition.js"></script>
+
+<div id="chartContainer">
+  <p id="charttitle">Latest Country Emissions 2010</p>
+  <p id="chartsubhead">data value from CAIT.</p>
+</div>
+<script charset="utf-8" src="https://d3js.org/d3.v4.min.js"></script>
+<script charset="utf-8" src="https://cdnjs.cloudflare.com/ajax/libs/dimple/2.3.0/dimple.latest.min.js"></script>
+  
+<style> 
+      
+  #chartContainer {width: 840px; margin: auto; margin-top: 50px; }
+  #chartContainer p {margin-left: 60px; margin-bottom: 5px; margin-top: 0; padding: 0;}
+  #charttitle {font: bold 22px  Verdana, sans-serif;}
+      
+</style>
+<script>
+d3.csv("/Website/back-end/country_CAIT.csv", function(CountryCAIT) {
+          
+          //console.log(CountryCAIT);
+          //console.log(CountryCAIT[1]);
+        
+          var svg = dimple.newSvg("#chartContainer", 800, 400); 
+
+          var myChart = new dimple.chart(svg, CountryCAIT);
+          myChart.setBounds(30, 50, 1700, 200);
+
+          myChart.defaultColors = [
+              new dimple.color("#54aae3")
+          ];
+
+          var x = myChart.addCategoryAxis("x", "Country");  
+
+          var y = myChart.addMeasureAxis("y", "2010"); 
+          y.title = "Emissions 2010 (MtCO‚ÇÇe)";
+
+          var s = myChart.addSeries(null, dimple.plot.bar);
+
+          myChart.draw(500);//delay 500 milisecond
+
+          svg.selectAll("path.domain").style("stroke", "#CCC");//grid light grey
+          svg.selectAll("g.tick line").style("stroke", "#CCC");
+
+        });
+
+</script>
+</div>
+<!-- Animated bar chart -->
+<div class="flourish-embed" data-src="story/831302">
+  <script src="https://public.flourish.studio/resources/embed.js"></script>
+</div>
+</div>
+
+<style> 
+    .scroll-down {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  cursor: pointer;
+}
+
+.scroll-down::before,
+.scroll-down::after {
+  content: '';
+  position: absolute;
+  top: 20%;
+  height: 20px;
+  width: 20px;
+  transform: translate( -50%, -50%);
+  border-right: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  transform: rotate(45deg);
+  animation: scroll-down 1.5s ease-in-out infinite;
+}
+
+.scroll-down::after {
+  top: 60%;
+}
+@keyframes scroll-down {
+  0%{
+    opacity: 0;
+  }
+  30%{
+    opacity: 1;
+  }
+  60%{
+    opacity: 1;
+  }
+  100%{
+    opacity: 0;
+    top: 90%;
+  }
+}
+
+#explore {
+  position: absolute;
+  padding-bottom: 20px;
+}
+      
+</style>
+</script>
+
+</body>
+</div>
+<footer>
+  <!-- Scroll down -->
+  <div id="explore">
+      <button> Home</button>
+  </div>
+  
+  <a href="/Website/front-end/index.html">
+      <div class="scroll-down"></div>
+  </a>
+</footer>
+</div>
+</html>

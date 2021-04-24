@@ -1,0 +1,1942 @@
+[
+ {
+   "Country": "Afghanistan",
+   "2020": 35.5,
+   "2025": 82,
+   "Year_2030": 91.6,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 209.1
+ },
+ {
+   "Country": "Albania",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 11.61,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 11.61
+ },
+ {
+   "Country": "Algeria",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Andorra",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 0.8535,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.8535
+ },
+ {
+   "Country": "Angola",
+   "2020": 125.78,
+   "2025": 394.23,
+   "Year_2030": 415.49,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 935.5
+ },
+ {
+   "Country": "Antigua and Barbuda",
+   "2020": 0.291,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.291
+ },
+ {
+   "Country": "Argentina",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 852,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 852
+ },
+ {
+   "Country": "Armenia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": 6.93,
+   "Grand Total": 6.93
+ },
+ {
+   "Country": "Australia",
+   "2020": 1405.7,
+   "2025": null,
+   "Year_2030": 872.2,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 2277.9
+ },
+ {
+   "Country": "Austria",
+   "2020": 63.04,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 63.04
+ },
+ {
+   "Country": "Azerbaijan",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 45.27,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 45.27
+ },
+ {
+   "Country": "Bahamas",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Bahrain",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Bangladesh",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 970.59,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 970.59
+ },
+ {
+   "Country": "Barbados",
+   "2020": null,
+   "2025": 1.44,
+   "Year_2030": 1.4,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 2.84
+ },
+ {
+   "Country": "Belarus",
+   "2020": 257.43,
+   "2025": null,
+   "Year_2030": 100.19,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 357.62
+ },
+ {
+   "Country": "Belgium",
+   "2020": 117.04,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 117.04
+ },
+ {
+   "Country": "Belize",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Benin",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Bhutan",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 0,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0
+ },
+ {
+   "Country": "Bolivia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Bosnia & Herzegovina",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 89.23,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 89.23
+ },
+ {
+   "Country": "Botswana",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 7.06,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 7.06
+ },
+ {
+   "Country": "Brazil",
+   "2020": 4045,
+   "2025": 1323,
+   "Year_2030": 1197,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 6565
+ },
+ {
+   "Country": "Brunei",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Bulgaria",
+   "2020": 82.92,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 82.92
+ },
+ {
+   "Country": "Burkina Faso",
+   "2020": 254.97,
+   "2025": 290.91,
+   "Year_2030": 400.21,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 946.09
+ },
+ {
+   "Country": "Burundi",
+   "2020": 128.21,
+   "2025": 163.59,
+   "Year_2030": 206.33,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 498.13
+ },
+ {
+   "Country": "Cambodia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 20.07,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 20.07
+ },
+ {
+   "Country": "Cameroon",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": 174.72,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 174.72
+ },
+ {
+   "Country": "Canada",
+   "2020": 620,
+   "2025": null,
+   "Year_2030": 523,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 1143
+ },
+ {
+   "Country": "CapeVerde",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Central African Republic",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 320.34,
+   "2035": null,
+   "2040": null,
+   "2050": 510.08,
+   "Grand Total": 830.42
+ },
+ {
+   "Country": "Chad",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 60.41,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 60.41
+ },
+ {
+   "Country": "Chile",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "China PR",
+   "2020": 20913.06,
+   "2025": null,
+   "Year_2030": 22235.5,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 43148.56
+ },
+ {
+   "Country": "Colombia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 837.5,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 837.5
+ },
+ {
+   "Country": "Comoros",
+   "2020": 0.55,
+   "2025": 0.56,
+   "Year_2030": 0.6,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 1.71
+ },
+ {
+   "Country": "Congo",
+   "2020": null,
+   "2025": 25.77,
+   "Year_2030": null,
+   "2035": 50.86,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 76.63
+ },
+ {
+   "Country": "CongoDR",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 786.9,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 786.9
+ },
+ {
+   "Country": "Cook Islands",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Costa Rica",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 9.37,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 9.37
+ },
+ {
+   "Country": "Cote d'Ivoire",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 58.83,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 58.83
+ },
+ {
+   "Country": "Croatia",
+   "2020": 24.92,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 24.92
+ },
+ {
+   "Country": "Cuba",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Cyprus",
+   "2020": 4.5,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 4.5
+ },
+ {
+   "Country": "Czech Republic",
+   "2020": 156.66,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 156.66
+ },
+ {
+   "Country": "Denmark",
+   "2020": 56.39,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 56.39
+ },
+ {
+   "Country": "Djibouti",
+   "2020": 7.12,
+   "2025": null,
+   "Year_2030": 8.96,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 16.08
+ },
+ {
+   "Country": "Dominica",
+   "2020": 0.14,
+   "2025": 0.1,
+   "Year_2030": 0.09,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.33
+ },
+ {
+   "Country": "Dominican Republic",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 16.59,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 16.59
+ },
+ {
+   "Country": "Ecuador",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Egypt",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "El Salvador",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Equatorial Guinea",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 3.76,
+   "2035": null,
+   "2040": null,
+   "2050": 2.35,
+   "Grand Total": 6.11
+ },
+ {
+   "Country": "Eritrea",
+   "2020": 13.99,
+   "2025": 14.5,
+   "Year_2030": 15,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 43.49
+ },
+ {
+   "Country": "Estonia",
+   "2020": 32.32,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 32.32
+ },
+ {
+   "Country": "Ethiopia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 145,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 145
+ },
+ {
+   "Country": "EU-28",
+   "2020": 8464.1,
+   "2025": null,
+   "Year_2030": 3246.6,
+   "2035": null,
+   "2040": null,
+   "2050": 1352.7,
+   "Grand Total": 13063.4
+ },
+ {
+   "Country": "Fiji",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 6.5,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 6.5
+ },
+ {
+   "Country": "Finland",
+   "2020": 56.9,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 56.9
+ },
+ {
+   "Country": "France",
+   "2020": 440.05,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 440.05
+ },
+ {
+   "Country": "Gabon",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Gambia",
+   "2020": null,
+   "2025": 5.06,
+   "Year_2030": 6.18,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 11.24
+ },
+ {
+   "Country": "Georgia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 99.9,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 99.9
+ },
+ {
+   "Country": "Germany",
+   "2020": 1000.73,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 1000.73
+ },
+ {
+   "Country": "Ghana",
+   "2020": 37.81,
+   "2025": 139.64,
+   "Year_2030": 177.55,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 355
+ },
+ {
+   "Country": "Greece",
+   "2020": 82.46,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 82.46
+ },
+ {
+   "Country": "Grenada",
+   "2020": null,
+   "2025": 0.179,
+   "Year_2030": 0.154,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.333
+ },
+ {
+   "Country": "Guatemala",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 143.35,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 143.35
+ },
+ {
+   "Country": "Guinea",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 13.15,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 13.15
+ },
+ {
+   "Country": "Guinea-Bissau",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Guyana",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Haiti",
+   "2020": null,
+   "2025": 54.91,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 54.91
+ },
+ {
+   "Country": "Honduras",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 53.5,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 53.5
+ },
+ {
+   "Country": "Hungary",
+   "2020": 75.12,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 75.12
+ },
+ {
+   "Country": "Iceland",
+   "2020": 3.02,
+   "2025": null,
+   "Year_2030": 8.22,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 11.24
+ },
+ {
+   "Country": "India",
+   "2020": 8596.62,
+   "2025": null,
+   "Year_2030": 15020.96,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 23617.58
+ },
+ {
+   "Country": "Indonesia",
+   "2020": 6873.5,
+   "2025": null,
+   "Year_2030": 6690,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 13563.5
+ },
+ {
+   "Country": "Iran",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Iraq",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Ireland",
+   "2020": 44.88,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 44.88
+ },
+ {
+   "Country": "Israel",
+   "2020": 196.2,
+   "2025": null,
+   "Year_2030": 187.15,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 383.35
+ },
+ {
+   "Country": "Italy",
+   "2020": 415.93,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 415.93
+ },
+ {
+   "Country": "Jamaica",
+   "2020": null,
+   "2025": 37.913,
+   "Year_2030": 40.903,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 78.816
+ },
+ {
+   "Country": "Japan",
+   "2020": 1254.6,
+   "2025": null,
+   "Year_2030": 1042,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 2296.6
+ },
+ {
+   "Country": "Jordan",
+   "2020": 38.15,
+   "2025": null,
+   "Year_2030": 145.17,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 183.32
+ },
+ {
+   "Country": "Kazakhstan",
+   "2020": 304.5,
+   "2025": null,
+   "Year_2030": 573.2,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 877.7
+ },
+ {
+   "Country": "Kenya",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 243.1,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 243.1
+ },
+ {
+   "Country": "Kiribati",
+   "2020": null,
+   "2025": 0.16483,
+   "Year_2030": 0.17768,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.34251
+ },
+ {
+   "Country": "Kuwait",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 39,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 39
+ },
+ {
+   "Country": "Lao PDR",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Latvia",
+   "2020": 20.91,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 20.91
+ },
+ {
+   "Country": "Lebanon",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 110.42,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 110.42
+ },
+ {
+   "Country": "Lesotho",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Liberia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 9.807,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 9.807
+ },
+ {
+   "Country": "Liechtenstein",
+   "2020": 0.03431,
+   "2025": null,
+   "Year_2030": 0.01372,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.04803
+ },
+ {
+   "Country": "Lithuania",
+   "2020": 38.43,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 38.43
+ },
+ {
+   "Country": "Luxemburg",
+   "2020": 10.18,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 10.18
+ },
+ {
+   "Country": "Macedonia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 41.457,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 41.457
+ },
+ {
+   "Country": "Madagascar",
+   "2020": -23.61,
+   "2025": null,
+   "Year_2030": -47.27,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": -70.88
+ },
+ {
+   "Country": "Malawi",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Malaysia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 1850,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 1850
+ },
+ {
+   "Country": "Maldives",
+   "2020": 0,
+   "2025": null,
+   "Year_2030": 8.78,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 8.78
+ },
+ {
+   "Country": "Mali",
+   "2020": -109.789,
+   "2025": -217.137,
+   "Year_2030": -126.919,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": -453.845
+ },
+ {
+   "Country": "Malta",
+   "2020": 1.91,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 1.91
+ },
+ {
+   "Country": "Marshall Islands",
+   "2020": null,
+   "2025": 0.1258,
+   "Year_2030": 0.1018,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.2276
+ },
+ {
+   "Country": "Mauritania",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 51.82,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 51.82
+ },
+ {
+   "Country": "Mauritius",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 11.9,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 11.9
+ },
+ {
+   "Country": "Mexico",
+   "2020": 1346.4,
+   "2025": 888,
+   "Year_2030": 2355,
+   "2035": null,
+   "2040": null,
+   "2050": 297.93,
+   "Grand Total": 4887.33
+ },
+ {
+   "Country": "Micronesia",
+   "2020": null,
+   "2025": 0.2055,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.2055
+ },
+ {
+   "Country": "Moldova",
+   "2020": 28.13,
+   "2025": null,
+   "Year_2030": 34.125,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 62.255
+ },
+ {
+   "Country": "Monaco",
+   "2020": 0.069517,
+   "2025": 0.059586,
+   "Year_2030": 0.049655,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.178758
+ },
+ {
+   "Country": "Mongolia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 95.23,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 95.23
+ },
+ {
+   "Country": "Montenegro",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 3.667,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 3.667
+ },
+ {
+   "Country": "Morocco",
+   "2020": 325.9,
+   "2025": 351,
+   "Year_2030": 411.1,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 1088
+ },
+ {
+   "Country": "Mozambique",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Myanmar",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Namibia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 25.25,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 25.25
+ },
+ {
+   "Country": "Nauru",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 0.08,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.08
+ },
+ {
+   "Country": "Nepal",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Netherlands",
+   "2020": 176.6,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 176.6
+ },
+ {
+   "Country": "New Zealand",
+   "2020": 171.13,
+   "2025": null,
+   "Year_2030": 37.57,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 208.7
+ },
+ {
+   "Country": "Niger",
+   "2020": 182.09,
+   "2025": null,
+   "Year_2030": 252.65,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 434.74
+ },
+ {
+   "Country": "Nigeria",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 2115,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 2115
+ },
+ {
+   "Country": "Niue",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "North Korea",
+   "2020": 116.36,
+   "2025": null,
+   "Year_2030": 472.64,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 589
+ },
+ {
+   "Country": "Norway",
+   "2020": 54.34,
+   "2025": null,
+   "Year_2030": 25.08,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 79.42
+ },
+ {
+   "Country": "Oman",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 179.23,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 179.23
+ },
+ {
+   "Country": "Pakistan",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 2885.4,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 2885.4
+ },
+ {
+   "Country": "Palau",
+   "2020": null,
+   "2025": 0.208,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.208
+ },
+ {
+   "Country": "Palestine",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": 48.82,
+   "2050": null,
+   "Grand Total": 48.82
+ },
+ {
+   "Country": "Panama",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Papua New Guinea",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Paraguay",
+   "2020": 232,
+   "2025": null,
+   "Year_2030": 1123.2,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 1355.2
+ },
+ {
+   "Country": "Peru",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 745.75,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 745.75
+ },
+ {
+   "Country": "Philippines",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Poland",
+   "2020": 374.3,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 374.3
+ },
+ {
+   "Country": "Portugal",
+   "2020": 47.52,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 47.52
+ },
+ {
+   "Country": "Qatar",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Romania",
+   "2020": 197.02,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 197.02
+ },
+ {
+   "Country": "Russian Federation",
+   "2020": 6031.6,
+   "2025": null,
+   "Year_2030": 5698.5,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 11730.1
+ },
+ {
+   "Country": "Rwanda",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Saint Kitts and Nevis",
+   "2020": 0.545,
+   "2025": 1.204,
+   "Year_2030": 1.376,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 3.125
+ },
+ {
+   "Country": "Saint Lucia",
+   "2020": null,
+   "2025": 1.395,
+   "Year_2030": 1.444,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 2.839
+ },
+ {
+   "Country": "Saint Vincent and the Grenadines",
+   "2020": null,
+   "2025": 1.1992,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 1.1992
+ },
+ {
+   "Country": "Samoa",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "San Marino",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 0.1704,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.1704
+ },
+ {
+   "Country": "Sao Tome and Principe",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 0.4224,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.4224
+ },
+ {
+   "Country": "Saudi Arabia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Senegal",
+   "2020": 64.9,
+   "2025": 83.2,
+   "Year_2030": 103,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 251.1
+ },
+ {
+   "Country": "Serbia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 60.13,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 60.13
+ },
+ {
+   "Country": "Seychelles",
+   "2020": null,
+   "2025": 1.0223,
+   "Year_2030": 1.1086,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 2.1309
+ },
+ {
+   "Country": "Sierra Leone",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Singapore",
+   "2020": 64.85,
+   "2025": null,
+   "Year_2030": 47,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 111.85
+ },
+ {
+   "Country": "Slovakia",
+   "2020": 59.57,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 59.57
+ },
+ {
+   "Country": "Slovenia",
+   "2020": 14.88,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 14.88
+ },
+ {
+   "Country": "Solomon Islands",
+   "2020": null,
+   "2025": 0.111,
+   "Year_2030": 0.086,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.197
+ },
+ {
+   "Country": "Somalia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "South Africa",
+   "2020": 583,
+   "2025": 1012,
+   "Year_2030": 1012,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 2607
+ },
+ {
+   "Country": "South Korea",
+   "2020": 547.8,
+   "2025": 809.7,
+   "Year_2030": 1386.5,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 2744
+ },
+ {
+   "Country": "South Sudan",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Spain",
+   "2020": 230.26,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 230.26
+ },
+ {
+   "Country": "Sri Lanka",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Sudan",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Suriname",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Swaziland",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Sweden",
+   "2020": 57.31,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 57.31
+ },
+ {
+   "Country": "Switzerland",
+   "2020": 79.95,
+   "2025": 34.65,
+   "Year_2030": 26.65,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 141.25
+ },
+ {
+   "Country": "Tajikistan",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 79.06,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 79.06
+ },
+ {
+   "Country": "Tanzania",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 461,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 461
+ },
+ {
+   "Country": "Thailand",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 1415.25,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 1415.25
+ },
+ {
+   "Country": "Timor-Leste",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Togo",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 101.02,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 101.02
+ },
+ {
+   "Country": "Tonga",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 118,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 118
+ },
+ {
+   "Country": "Tunisia",
+   "2020": 108.3,
+   "2025": 134,
+   "Year_2030": 172.6,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 414.9
+ },
+ {
+   "Country": "Turkey",
+   "2020": 1272,
+   "2025": 1724,
+   "Year_2030": 2104,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 5100
+ },
+ {
+   "Country": "Turkmenistan",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Tuvalu",
+   "2020": null,
+   "2025": 0.008,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 0.008
+ },
+ {
+   "Country": "Uganda",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 137.59,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 137.59
+ },
+ {
+   "Country": "UK",
+   "2020": 637.45,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 637.45
+ },
+ {
+   "Country": "Ukraine",
+   "2020": 699.7,
+   "2025": null,
+   "Year_2030": 524.76,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 1224.46
+ },
+ {
+   "Country": "United Arab Emirates",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "United States of America",
+   "2020": 5463.3,
+   "2025": 9610.2,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 15073.5
+ },
+ {
+   "Country": "Uruguay",
+   "2020": null,
+   "2025": 149.8,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 149.8
+ },
+ {
+   "Country": "Uzbekistan",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Vanuatu",
+   "2020": null,
+   "2025": null,
+   "Year_2030": null,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": null
+ },
+ {
+   "Country": "Venezuela",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 612,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 612
+ },
+ {
+   "Country": "Vietnam",
+   "2020": 474.1,
+   "2025": null,
+   "Year_2030": 2102.36,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 2576.46
+ },
+ {
+   "Country": "Yemen",
+   "2020": 107.09,
+   "2025": 115.92,
+   "Year_2030": 124.83,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 347.84
+ },
+ {
+   "Country": "Zambia",
+   "2020": null,
+   "2025": null,
+   "Year_2030": 102.4,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 102.4
+ },
+ {
+   "Country": "Zimbabwe",
+   "2020": null,
+   "2025": 65.08,
+   "Year_2030": 86.08,
+   "2035": null,
+   "2040": null,
+   "2050": null,
+   "Grand Total": 151.16
+ }
+]

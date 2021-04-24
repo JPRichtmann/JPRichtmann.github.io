@@ -1,0 +1,308 @@
+/*--------------------------------------- Stylesheet for about page -------------------------------------------*/
+
+
+/*---------- Fonts and colors -----------*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap');
+
+:root {
+  --overlay-color: #1C6430;
+}
+
+/*---------------------------------------------------- About page ----------------------------------------------------*/
+
+/*------------- section 1 layout -------------*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.section {
+    width: 100%;
+    height: 100vh;
+    background-color: #6B859C;
+}
+
+/*------------- Header and menu -------------*/
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 40px 50px;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+  }
+
+/*------------- Footer -------------*/
+#footer {
+    position: absolute;
+    color: white;
+    top: 380%;
+    width: 100%;
+    height: 50px;
+    padding: 40px 50px;
+    z-index: 100;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+/*------------- Texts -------------*/
+.text-card {
+    position: absolute;
+    width: 700px;
+    height: 300;
+    top: 130%;
+    right: 10%;
+    background-color: white;
+    border-radius: 20px;
+    z-index: 300;
+}
+
+.small-text {
+    padding: 20px;
+}
+
+.text-card2 {
+    position: absolute;
+    width: 700px;
+    height: 300;
+    top: 230%;
+    left: 10%;
+    background-color: white;
+    border-radius: 20px;
+    z-index: 300;
+}
+
+.small-text2 {
+    padding: 15px;
+}
+
+.text-card3 {
+    position: absolute;
+    width: 700px;
+    height: 300;
+    top: 330%;
+    right: 10%;
+    background-color: white;
+    border-radius: 20px;
+    z-index: 300;
+}
+
+.small-text3 {
+    padding: 15px;
+}
+
+/*------------- Intro text and img -------------*/
+.big-text {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    position: absolute;
+    line-height: 100px;
+    top: 20%;
+    left: 25%;
+    font-weight: 800;
+    background-color: tomato;
+    font-size: 80px;
+    color: white;
+    z-index: 100;
+    border-left: 10px solid #EC922D;
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.6);
+}
+
+#bubble-pic {
+    position: absolute;
+    top: 25%;
+    left: 55%;
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 50%;
+    z-index: 500;
+    border: 1rem solid #ebeef8;
+    box-shadow: .5rem .5rem 2rem rgba(0,0,0,0.5);
+}
+
+img:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+/*------------- White dashed line -------------*/
+.box {
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    width: 5px;
+    height: 100vh;
+    border-left: 5px dashed white;
+    z-index: 200;
+    background: none;
+    box-shadow: 1px 1px 20px rgba(0,0,0,0.6);
+}
+
+#bubble{
+  position: absolute;
+  left: 48.5%;
+  top: 120%;
+  height: 50px;
+  width: 50px;
+  background: #5995F9;
+  border-radius: 50%;
+  border: 5px solid #ebeef8;
+  box-shadow: .5rem .5rem 2rem rgba(0,0,0,0.5);
+  z-index: 400;
+}
+
+#chart {
+  position: absolute;
+  left: 53%;
+  top: 121%;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+#one-planet {
+  position: absolute;
+  left: 10%;
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 50%;
+  z-index: 100;
+  border: 1rem solid #ebeef8;
+  box-shadow: .5rem .5rem 2rem rgba(0,0,0,0.5);
+}
+
+.box2 {
+    position: absolute;
+    top: 157%;
+    left: 50%;
+    width: 5px;
+    height: 100vh;
+    border-left: 5px dashed white;
+    z-index: 200;
+    background: none;
+    box-shadow: 1px 1px 20px rgba(0,0,0,0.6);
+}
+
+.box3 {
+    position: absolute;
+    top: 257%;
+    left: 50%;
+    width: 5px;
+    height: 100vh;
+    border-left: 5px dashed white;
+    z-index: 200;
+    background: none;
+    box-shadow: 1px 1px 20px rgba(0,0,0,0.6);
+}
+
+#one-planet {
+    position: absolute;
+    left: 10%;
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 50%;
+    z-index: 100;
+    border: 1rem solid #ebeef8;
+    box-shadow: .5rem .5rem 2rem rgba(0,0,0,0.5);
+}
+
+#one-planet2 {
+    position: absolute;
+    right: 10%;
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 50%;
+    z-index: 100;
+    border: 1rem solid #ebeef8;
+    box-shadow: .5rem .5rem 2rem rgba(0,0,0,0.5);
+}
+
+#one-planet3 {
+    position: absolute;
+    left: 10%;
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 50%;
+    z-index: 100;
+    border: 1rem solid #ebeef8;
+    box-shadow: .5rem .5rem 2rem rgba(0,0,0,0.5);
+}
+
+#bubble2 {
+  position: absolute;
+  left: 48.5%;
+  top: 320%;
+  height: 50px;
+  width: 50px;
+  background: #5995F9;
+  border-radius: 50%;
+  border: 5px solid #ebeef8;
+  box-shadow: .5rem .5rem 2rem rgba(0,0,0,0.5);
+  z-index: 400;
+}
+
+#marker {
+  position: absolute;
+  left: 53%;
+  top: 322%;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+/*----------- Scroll down -----------*/
+.scroll-down {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    cursor: pointer;
+  }
+
+  /*----------- Scroll down -----------*/
+  
+  .scroll-down::before,
+  .scroll-down::after {
+    content: '';
+    position: absolute;
+    top: 20%;
+    height: 20px;
+    width: 20px;
+    transform: translate( -50%, -50%);
+    border-right: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    transform: rotate(45deg);
+    animation: scroll-down 1.5s ease-in-out infinite;
+  }
+  
+  .scroll-down::after {
+    top: 60%;
+  }
+  @keyframes scroll-down {
+    0%{
+      opacity: 0;
+    }
+    30%{
+      opacity: 1;
+    }
+    60%{
+      opacity: 1;
+    }
+    100%{
+      opacity: 0;
+      top: 90%;
+    }
+  }
+  
