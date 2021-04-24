@@ -144,7 +144,7 @@
 #miro {
   position: absolute;
   top: 50%;
-  background: url('/Website/front-end/img/miro.png');
+  background: url('/front-end/img/miro.png');
   background-position: center;
   background-size: cover;
   border: 2px solid black;
